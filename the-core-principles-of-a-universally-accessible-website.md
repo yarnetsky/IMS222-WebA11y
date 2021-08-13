@@ -1,4 +1,4 @@
-# POUR: The core principles of universally accessible websites
+# Principles of universally accessible websites \(POUR\)
 
 Universal access to your web content relies on several components working together.
 
@@ -6,38 +6,25 @@ Universal access to your web content relies on several components working togeth
 * **User agents** - A user agent is the software people use to access your web content. This could be any device including a desktop or mobile/tablet web browsers, ebook readers, multimedia players, browser plug-ins, and assistive technologies such as screen readers that read aloud web pages.
 * **Authoring tools** - We often use tools to create web content. This could be anything from our code editor to a web content manager such as WordPress. It's also the content we embed in our websites such as Instagram, YouTube, or Twitter. 
 
-If any fail of these fail, your reader is missing your intended content. Your reader loses and so do you the failure prevents your ability to communicate. 
+If any of these fail, your reader can miss the intended meaning of your content. Your reader loses and so do you because the failure prevents your ability to communicate.
 
-To help you navigate what is required to make your work accessible, there are four principles which go by the acronym POUR— _perceivable_, _operable_, _understandable_, and _robust_. These principals each cover a lot of ground, but come together to outline what makes our site universally accessible.
+To help you navigate what is required to make your work accessible, there are four principles which go by the acronym POUR— _perceivable_, _operable_, _understandable_, and _robust_. These principals each cover a lot of ground, but come together to outline what's needed to make your site universally accessible.
 
-Note: There are official national and international standards that play a vital role in the requirements for each of these components. We will link to these in part 3, Some accessibility requirements are easy to meet, yet understanding the basics of how people with disabilities use the Web helps implement them more effectively and efficiently. Some aspects of accessibility require more technical skills or advanced knowledge of how people use the Web. In all cases, [involving users early and throughout your web projects](https://www.w3.org/WAI/test-evaluate/involving-users/) will make your work better and easier.
+Note: There are official national and international standards that play a vital role in the requirements for each of these components. Some of these requirements are easy to meet and others require technical skills or advanced knowledge of how people use the Web. In all cases, [involving users early and throughout your web projects](https://www.w3.org/WAI/test-evaluate/involving-users/) will make your work better and easier.
 
 ### Perceivable
 
-This means any person using any device can read the intended content of the page. Here's what this means for your websites...
+Everyone should be able to gain the knowledge you intend to share with your site. All content should have a means of conveyance to the reader. Here's what this means for your websites...
 
-#### text alternatives for non-text content
+#### text alternatives for non-text content such as images and multimedia
 
 A good example is closed captioning and/or transcripts for spoken material \(be it a video or podcast\). This would also include description of images and charts and labels for interactive elements of your site \(such as forms and search buttons\).
 
-#### Text alternatives for non-text content including images and multimedia <a id="alternatives"></a>
-
-Text alternatives are equivalents for non-text content. Examples include:
-
-* Short equivalents for images, including icons, buttons, and graphics
-* Description of data represented on charts, diagrams, and illustrations
-* Brief descriptions of non-text content such as audio and video files
-* Labels for form controls, input, and other user interface components.
-
-Think about all the places we use icons as a substitution for words. We need to include 
-
-Text alternatives convey the purpose of an image or function to provide an equivalent user experience. For instance, an appropriate text alternative for a search button would be “_search_” rather than “_magnifying lens_”.
-
-Text alternatives can be presented in a variety of ways. For instance, they can be read aloud for people who cannot see the screen and for people with reading difficulties, enlarged to custom text sizes, or displayed on braille devices. Text alternatives serve as labels for controls and functionality to aid keyboard navigation and navigation by voice recognition \(speech input\). They also act as labels to identify audio, video, and files in other formats, as well as applications that are embedded as part of a website.
+These text alternatives can be presented in a variety of ways. They could be read aloud for people who cannot see the screen and for people with reading difficulties, enlarged to custom text sizes, or displayed on braille devices.
 
 #### Content can be presented in different ways <a id="adaptable"></a>
 
-For users to be able to change the presentation of content, it is necessary that:
+Structuring your HTML properly, such as headings, lists, tables, and content structures, will help a variety of user agents— from browsers to assistive technologies — properly display your content.  
 
 * Headings, lists, tables, input fields, and content structures are marked-up properly
 * Sequences of information or instructions are independent of any presentation
@@ -57,7 +44,7 @@ Distinguishable content is easier to see and hear. Such content includes:
 * Users can pause, stop, or adjust the volume of audio that is played on a website
 * Background audio is low or can be turned off, to avoid interference or distraction
 
-Meeting this requirement helps separate foreground from background, to make important information more distinguishable. This includes considerations for people who do not use assistive technologies and for people using assistive technologies who may observe interference from prominent audio or visual content in the background. For instance, many people with color blindness do not use any particular tools and rely on a proper design that provides sufficient color contrast between text and its surrounding background. For others, audio that is automatically played could interfere with text-to-speech or with [assistive listening devices \(ALDs\)](http://www.w3.org/WAI/training/accessible#ald).
+Meeting this requirement helps separate foreground from background, to make important information more distinguishable. This includes considerations for people who do not use assistive technologies and for people using assistive technologies who may observe interference from prominent audio or visual content in the background. For instance, many people with color blindness do not use any particular tools and rely on a proper design that provides sufficient color contrast between text and its surrounding background. 
 
 ### Operable  <a id="operable"></a>
 
@@ -156,16 +143,13 @@ Meeting this requirement helps people who do not see or hear the content, and ma
 
 ### Robust  <a id="robust"></a>
 
-#### content and reliable interpretation
+If you do the above, your content becomes more compatible with current and future tools. It ensures your markup is compatible with different browsers, assistive technologies, and other user agents. 
 
-#### Content is compatible with current and future user tools <a id="compatible"></a>
-
-Robust content is compatible with different browsers, assistive technologies, and other user agents. Examples of how this can be achieved include:
-
-* Ensuring markup can be reliably interpreted, for instance by ensuring it is valid
-* Providing a name, role, and value for non-standard user interface components
+In accessibility circles, we often talk about compatibility with assistive technologies, but we also need to keep our content usable for the future "Internet of Things." Will your refrigerator be able to read a recipe and compare it to the contents of your refrigerator? If you recipe is marked up properly today, then it should be robust enough to 
 
 Meeting this requirement helps maximize compatibility with current and future user agents, including assistive technologies. In particular, it enables assistive technologies to process the content reliably, and to present or to operate it in different ways. This includes non-standard \(scripted\) buttons, input fields, and other controls.
 
-Adapted from [Accessibility Principals](https://www.w3.org/WAI/fundamentals/accessibility-principles/) by W3C Web Accessibility Initiative
+
+
+**Credits**: Content adapted from [Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/) by W3C Web Accessibility Initiative
 

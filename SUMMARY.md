@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Principles of universally accessible websites \(POUR\)](the-core-principles-of-a-universally-accessible-website.md)
 * [How a screen reader sees](how-a-screen-reader-sees.md)
 
 ## Part 1: Why Should We Care?
@@ -25,8 +26,4 @@
 * [Useful Links](part-3-appendices-and-tools/useful-links.md)
 * [Better Copy-Pasting](part-3-appendices-and-tools/better-copy-pasting.md)
 * [Non-HTML files](part-3-appendices-and-tools/non-html-files.md)
-
----
-
-* [POUR: The core principles of universally accessible websites](the-core-principles-of-a-universally-accessible-website.md)
 
