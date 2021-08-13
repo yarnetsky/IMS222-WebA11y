@@ -5,9 +5,9 @@
 
 ## Part 1: Why Should We Care?
 
+* [1.3 Three goals of a well-coded page](part-1-why-should-we-care/1.3-three-goals-of-a-well-coded-page.md)
 * [1.1 Why should we care about accessibility?](part-1-why-should-we-care/1.1-why-should-we-care-about-accessibility.md)
 * [1.2 How is content perceived](part-1-why-should-we-care/1.2-how-is-content-perceived.md)
-* [1.3 Three goals of a well-coded page](part-1-why-should-we-care/1.3-three-goals-of-a-well-coded-page.md)
 * [1.4 Simple accessibility testing tools](part-1-why-should-we-care/1.4-simple-accessibility-testing-tools.md)
 
 ## Part 2: How to build better...
