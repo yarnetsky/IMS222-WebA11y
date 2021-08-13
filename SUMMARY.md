@@ -26,3 +26,7 @@
 * [Better Copy-Pasting](part-3-appendices-and-tools/better-copy-pasting.md)
 * [Non-HTML files](part-3-appendices-and-tools/non-html-files.md)
 
+---
+
+* [The core principles of a universally accessible website](the-core-principles-of-a-universally-accessible-website.md)
+
