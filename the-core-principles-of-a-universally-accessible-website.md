@@ -16,6 +16,8 @@ Note: There are official national and international standards that play a vital 
 
 Everyone should be able to gain the knowledge you intend to share with your site. All content should have a means of conveyance to the reader. Here's what this means for your websites...
 
+"Perceivability means the user can identify content and interface elements by means of the senses. For many users, this means perceiving a system primarily visually, while for others, perceivability may be a matter of sound or touch. New and emerging technologies may include sensory cues for smell and taste; these would also be considered examples of "perceivable" technology."
+
 #### text alternatives for non-text content such as images and multimedia
 
 A good example is closed captioning and/or transcripts for spoken material \(be it a video or podcast\). This would also include description of images and charts and labels for interactive elements of your site \(such as forms and search buttons\).
@@ -47,6 +49,8 @@ Distinguishable content is easier to see and hear. Such content includes:
 Meeting this requirement helps separate foreground from background, to make important information more distinguishable. This includes considerations for people who do not use assistive technologies and for people using assistive technologies who may observe interference from prominent audio or visual content in the background. For instance, many people with color blindness do not use any particular tools and rely on a proper design that provides sufficient color contrast between text and its surrounding background. 
 
 ### Operable  <a id="operable"></a>
+
+"Operability means that a user can successfully use controls, buttons, navigation, and other necessary interactive elements. For many users, this means identifying an interface control visually, and then clicking, tapping, or swiping. For other users, using a computer keyboard or voice commands may be the only means by which they can operate and control the interface."
 
 #### Your site needs to be functional from a keyboard
 
@@ -108,7 +112,7 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 ### Understandable  <a id="understandable"></a>
 
-#### information and user interface
+"Understandable technology is consistent in its presentation and format, predictable in its design and usage patterns, concise, multimodal, and appropriate to the audience in its voice and tone. Users should be able to comprehend the content, and learn and remember how to use the interface."
 
 #### Text is readable and understandable <a id="readable"></a>
 
@@ -145,9 +149,11 @@ Meeting this requirement helps people who do not see or hear the content, and ma
 
 If you do the above, your content becomes more compatible with current and future tools. It ensures your markup is compatible with different browsers, assistive technologies, and other user agents. 
 
-In accessibility circles, we often talk about compatibility with assistive technologies, but we also need to keep our content usable for the future "Internet of Things." Will your refrigerator be able to read a recipe and compare it to the contents of your refrigerator? If you recipe is marked up properly today, then it should be robust enough to 
+"Robust I.T. is standards-compliant, and designed to function on all appropriate technologies. Users should be able to choose the technology they use to interact with websites, online documents, multimedia, and other information formats."
 
-Meeting this requirement helps maximize compatibility with current and future user agents, including assistive technologies. In particular, it enables assistive technologies to process the content reliably, and to present or to operate it in different ways. This includes non-standard \(scripted\) buttons, input fields, and other controls.
+In accessibility circles, we often talk about compatibility with assistive technologies, but we also need to keep our content usable for the future "Internet of Things." Will your refrigerator be able to read a recipe and compare it to the contents of your refrigerator? If you recipe is marked up properly today, then it should be robust enough to succeed.
+
+"POUR principles were developed to describe web accessibility, but they can be applied to almost any accessibility question. Technology providers must ensure that their users all can perceive, operate, and understand their technology, and that the technology is robust enough to work across a spectrum of technologies, including assistive technology."
 
 
 
