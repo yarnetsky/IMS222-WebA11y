@@ -28,5 +28,5 @@
 
 ---
 
-* [The core principles of a universally accessible website](the-core-principles-of-a-universally-accessible-website.md)
+* [POUR: The core principles of universally accessible websites](the-core-principles-of-a-universally-accessible-website.md)
 

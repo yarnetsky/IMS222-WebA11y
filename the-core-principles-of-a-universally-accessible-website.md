@@ -1,14 +1,16 @@
-# The core principles of a universally accessible website
+# POUR: The core principles of universally accessible websites
 
-Web accessibility relies on several components that work together. 
+Universal access to your web content relies on several components working together.
 
-* **Your content** - This can be any content in your website from text to images and multimedia.
-* **The "user agent"** - this is the software people use to access web content— be it a desktop, tablet, and mobile browsers, multimedia players, plug-ins, and assistive technologies such as screen readers that read aloud web pages for people who cannot read the text or screen magnifiers for people with some types of low vision.
-* **Authoring tools** - any software or services you use to create content for the web. Examples could include our code editor, a PDF creator, or a web content manager such as WordPress. This could also include assistive tools such as voice recognition.
+* **Your content** - It all starts with your content— from your text to images and multimedia. If your content is not written or coded correctly, your reader will not be able to comprehend your content.
+* **User agents** - A user agent is the software people use to access your web content. This could be any device including a desktop or mobile/tablet web browsers, ebook readers, multimedia players, browser plug-ins, and assistive technologies such as screen readers that read aloud web pages.
+* **Authoring tools** - We often use tools to create web content. This could be anything from our code editor to a web content manager such as WordPress. It's also the content we embed in our websites such as Instagram, YouTube, or Twitter. 
 
-These components interrelate and support each other. For instance, **web content** needs to include text alternatives for images. This information needs to be processed by **web browsers** and then conveyed to **assistive technologies**, such as screen readers. To create such text alternatives, authors need **authoring tools** that support them to do so. More background is provided in [Essential Components of Web Accessibility](https://www.w3.org/WAI/fundamentals/components/).
+If any fail of these fail, your reader is missing your intended content. Your reader loses and so do you the failure prevents your ability to communicate. 
 
-Standards play a vital role in defining accessibility requirements for each of these components. Some accessibility requirements are easy to meet, yet understanding the basics of how people with disabilities use the Web helps implement them more effectively and efficiently. Some aspects of accessibility require more technical skills or advanced knowledge of how people use the Web. In all cases, [involving users early and throughout your web projects](https://www.w3.org/WAI/test-evaluate/involving-users/) will make your work better and easier.
+To help you navigate what is required to make your work accessible, there are four principles which go by the acronym POUR— _perceivable_, _operable_, _understandable_, and _robust_. These principals each cover a lot of ground, but come together to outline what makes our site universally accessible.
+
+Note: There are official national and international standards that play a vital role in the requirements for each of these components. We will link to these in part 3, Some accessibility requirements are easy to meet, yet understanding the basics of how people with disabilities use the Web helps implement them more effectively and efficiently. Some aspects of accessibility require more technical skills or advanced knowledge of how people use the Web. In all cases, [involving users early and throughout your web projects](https://www.w3.org/WAI/test-evaluate/involving-users/) will make your work better and easier.
 
 ### Perceivable
 
