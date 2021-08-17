@@ -18,7 +18,7 @@ description: 'Color and text often interact, so we''ll cover both here...'
 * **Do not rely on color to convey meaning**: Insure web content is understood as easily without color as it is with color. A common approach is to use words as well as colors to convey meaning. For example, a warning message in red should also include wording to make it obvious that it is a warning.
 * **Test color and contrast combinations**: Resources below can help you see how your color combinations will be perceived by someone with color blindness. 
 * **Avoid using absolute text sizes**: Older browsers are unable to resize absolute sized text, such as 16px \(pixels\). Thus, if you alter your default text size, use relative sizes where possible \(ie... small and x-large, or 1.5em and 90%\).
-* **Test your color combinations**: Tota11y can help you identify low-constrast color combinations and tools are available to help you visualize your page with color blindness.
+* **Test your color combinations**: Tota11y can help you identify low-contrast color combinations and tools are available to help you visualize your page with color blindness.
 
 ## Testing
 

@@ -2,8 +2,6 @@
 
 * [Introduction](README.md)
 * [The four principles of universally accessible websites \(POUR\)](the-core-principles-of-a-universally-accessible-website.md)
-* [How a screen reader sees](how-a-screen-reader-sees.md)
-* [Why should we care about accessibility?](why-should-we-care-about-accessibility.md)
 * [How is content perceived with assistive technologies?](how-is-content-perceived.md)
 * [Simple accessibility testing tools](simple-accessibility-testing-tools.md)
 
