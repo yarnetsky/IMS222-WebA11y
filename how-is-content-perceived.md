@@ -2,6 +2,13 @@
 
 While there are [many types of assistive technology](https://webaccess.berkeley.edu/resources/assistive-technology), we will focus on screen readers which communicates the structure and content of web pages via simulated speech or a Braille readout. Many of the best practices that will allow your content to be read via a screen reader will also help with other assistive technologies.
 
+Additional types of assistive technologies include 
+
+* Screen magnifiers to enlarge the text and graphics on the screen. \(Think magnifying glass for print\)
+* Text readers are related to screen readers, but focus on reading specified chunks of text and not reading everything on the page as screen readers would.
+* Speech input software to help people who would have difficulties with typing.
+* Alternative input devices for folks who might not have the dexterity/ability to use a mouse or keyboard. Examples include eye tracking, head pointers, cursor controlled-on screen keyboards.
+
 ## Try this experiment
 
 Look at the [_New York Times_ website](https://www.nytimes.com) and think aloud about what you are looking at as you go through the homepage.
