@@ -1,6 +1,6 @@
 # How to build...
 
-In this section, we will go into more details on how assistive technologies are used to access and interact with web content.
+Let's go into more detail on how to make your content more accessible to people using assistive technologies.
 
-Each page will focus on a specific aspect of web content, such headings, images, and hyperlinks. The page will start with a description of how the screen reader, or other assistive technology, interprets and allows the user to interact with that element of the page. It will be followed by examples and tips for how you can make powerful contributions to making your content universally accessible.
+Each page starts with how assistive tech, such as screen readers, allow the user to interact with your web content. It will be followed by examples and tips for how you can make your content universally accessible.
 
