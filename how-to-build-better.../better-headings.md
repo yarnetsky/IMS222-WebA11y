@@ -4,7 +4,7 @@ description: Headings give our content structure and a hierarchy.
 
 # Better Headings
 
-## Screen reader interaction
+## Interactions
 
 {% hint style="info" %}
 * A person using a screen reader can quickly skim our page contents by listening to the page headings. 
@@ -12,7 +12,9 @@ description: Headings give our content structure and a hierarchy.
 * Screen readers read a page in a linear fashion so we cannot rely entirely on visual organization. For example, a three-column layout is read as a single column starting with the first column.
 {% endhint %}
 
-## Solution: Headings give your content logical hierarchy.
+## Solutions
+
+### Headings give your content logical hierarchy.
 
 Use headings to outline your content— not unlike a bulleted page outline or table of contents. In your outline, keep headings in order and don't skip heading levels.
 

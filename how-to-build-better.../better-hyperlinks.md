@@ -1,6 +1,6 @@
 # Better Hyperlinks
 
-## The Interaction
+## Interactions
 
 {% hint style="info" %}
 * When a screen reader encounters a link, it will be announced as a "link" followed by the link's text. For example... "Link: Directions to Miami University"
@@ -8,7 +8,7 @@
 * As such, links are often heard outside of their context.
 {% endhint %}
 
-## The Solution
+## Solutions
 
 * Link wording should clearly and concisely explain the link's destination and/or its intent.
 * Avoid using introductory phrases, such as "click here," in a link. 

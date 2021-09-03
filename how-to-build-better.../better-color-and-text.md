@@ -4,19 +4,22 @@ description: 'Color and text often interact, so we''ll cover both here...'
 
 # Better Color and Text
 
-## The Interactions
+## Interactions
 
 {% hint style="info" %}
-* **Color and content**: Screen readers cannot verbalize information offered only by color. 
-* **Color blindness**: Students with color blindness may not be able to differentiate colors from poorly chosen combinations. For example, green and red symbolizing open and closed.
-* **Low contrast**: Low contrast combinations, such as white on gray or white on yellow, can be very difficult for students with low sight and dyslexia.
-* **Small Text**: Similarly, some people need to enlarge text, alter the font, or line spacing in order to read our content.
+* **Color blindness**: People who are color blind have difficulty differentiating certain colors and color combinations. Poorly chosen color combinations can hide meaning.
+* **Low contrast**: Low contrast combinations, such as white on light gray or white on yellow, can be very difficult to read for people with low sight and dyslexia.
+* **Small Text**: Some people use magnifier apps to enlarge text, alter the font appearance, or line spacing in order to read our content with greater ease.
 {% endhint %}
 
-## The Solutions
+## Solutions
 
-* **Do not rely on color to convey meaning**: Insure web content is understood as easily without color as it is with color. A common approach is to use words as well as colors to convey meaning. For example, a warning message in red should also include wording to make it obvious that it is a warning.
-* **Test color and contrast combinations**: Resources below can help you see how your color combinations will be perceived by someone with color blindness. 
+* **Don't rely on color to convey meaning**
+  * Your content should be understandable without color. For example, if you use red words to signify a warning, make sure the words on their own also convey the warning.
+  * Use patterns in addition to color. For example, the most common type of color blindness results in difficulty differentiating the colors red and green. However, those are also common colors for signifying something is open or closed. A solution is to use patterns in addition to color to signify something is closed.
+  * Some common color combinations to avoid: Green-Red; Green-Brown; Blue-Purple; Green-Blue; Light Green-Yellow; Blue-Grey; Green-Grey; Green-Black.
+* **Avoid low contrast color combination**: 
+  * In the testing section is a tool to help you see how your color combinations will be perceived by someone with color blindness.
 * **Avoid using absolute text sizes**: Older browsers are unable to resize absolute sized text, such as 16px \(pixels\). Thus, if you alter your default text size, use relative sizes where possible \(ie... small and x-large, or 1.5em and 90%\).
 * **Test your color combinations**: Tota11y can help you identify low-contrast color combinations and tools are available to help you visualize your page with color blindness.
 
