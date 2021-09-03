@@ -8,16 +8,16 @@ A person using a screen reader has no means of _seeing_ an image. Rather, they h
 
 ## Solution: Use Alt Text to describe your images
 
-Screen readers will read alt text in the place of the image to convey its intended meaning. The `alt=""` attribute would appear in an image tag like this...
+The alt text read by the screen reader is in `alt=""` attribute embedded in your image tag like this...
 
-**`<img src="/images/image-title.jpg" alt="description of image content">`**
+**`<img src="/images/image-title.jpg" alt="description of image content goes here">`**
 
 ### What should you include in alt text?
 
-* Ask yourself what information or site functionality you intend to convey with the image's use. This is also what you to convey with your alt text. 
-* The wording could change depending on the image's context. For example, if a magnifying glass is being used as an icon for a search button, the intent is not "magnifying glass", but rather "search."
-* Keep your alt text brief. If brief is not possible, consider including more explanation in your text.
-* You can skip using an introductory phrases such as "image of...." as the screen reader will announce it encountered an an image by default before it reads the alt text.
+* What information or site functionality are you intending to convey with the image's use? This intent must also be conveyed with your alt text. 
+* The alt text wording could change depending on the image's context. For example, if a magnifying glass icon is being used to signify a search button, the intent is not "magnifying glass", but rather "search."
+* Keep your alt text brief. If that's not possible, consider including more explanation in your text.
+* Skip introductory phrases such as "image of...." because the screen reader will automatically announce the element an an image/graphic by default before it reads the alt text.
 
 ### When is alt text _not_ needed?
 
