@@ -3,21 +3,21 @@
 ## The Interaction
 
 {% hint style="info" %}
-* When a screen reader encounters a link, it will be announced as a link followed by it's link text. "Link: Directions to Miami University"
-* Listening to all the links on a page is another method used for skimming a webpage using a screen reader is to listen to all of the links on the page. Before reading the link text, the screen reader will state they've encountered a link.
+* When a screen reader encounters a link, it will be announced as a "link" followed by the link's text. For example... "Link: Directions to Miami University"
+* Listening to all the links on a page is another method people using a screen reader for quickly skimming the content of a webpage.
+* As such, links are often heard outside of their context.
 {% endhint %}
 
 ## The Solution
 
-* Link wording should clearly explain its destination and/or intent. Ambiguous phrasing can obscure a link's purpose.
-* Read your links out of context to insure they will stand alone as a screen reader presents them in order.
-* Avoid introductory phrases such as "click here" for a link. 
-* Definitely do not use "click here" as a link on its own.
-* Do not use raw web addresses in links as the screen reader will read it aloud the entire URL.
+* Link wording should clearly and concisely explain the link's destination and/or its intent.
+* Avoid using introductory phrases, such as "click here," in a link. 
+* Never use "click here" as a link on its own.
+* Avoid using long, raw web addresses in links. Screen readers will try to read the entire url aloud, which can sound both awful and confusing. However, short primary urls like [miamioh.edu](https://miamioh.edu) are fine.
 
 ### Examples
 
-* **Poor**: [Click here](https://miamioh.edu/about-miami/visiting-miami/directions/index.html) for directions.
+* **Poor**: [Click here](https://miamioh.edu/about-miami/visiting-miami/directions/index.html) for directions to Miami University.
 * **Better**: [Directions to Miami University](https://miamioh.edu/about-miami/visiting-miami/directions/index.html) are available online.
 
   `<p><a href="https://miamioh.edu/about-miami/visiting-miami/directions/index.html">Directions to Miami University</a> are available online.</p>`
@@ -27,7 +27,7 @@
 
 ## Testing
 
-* Tota11y's "Link Text" option will identify any link that appear unclear. 
+* Read your links out of context to insure they will make sense when they stand alone as read by a screen reader.
+* Tota11y's "Link Text" option will try to identify any links that appear unclear. 
   * On this page for instance it identified the poorly written link examples above.
-* Tip: If the overlays hide the errors, click the annotate checkbox in the errors window. Without the annotations, you can hover over each error and it will be highlighted on the page. If the error is not visible, click the magnifying glass icon to zoom to the error.
 
