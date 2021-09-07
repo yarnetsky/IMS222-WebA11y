@@ -20,8 +20,10 @@ description: 'Color and text often interact, so we''ll cover both here...'
   * Some common color combinations to avoid: Green-Red; Green-Brown; Blue-Purple; Green-Blue; Light Green-Yellow; Blue-Grey; Green-Grey; Green-Black.
 * **Avoid low contrast color combination**: 
   * In the testing section is a tool to help you see how your color combinations will be perceived by someone with color blindness.
-* **Avoid using absolute text sizes**: Older browsers are unable to resize absolute sized text, such as 16px \(pixels\). Thus, if you alter your default text size, use relative sizes where possible \(ie... small and x-large, or 1.5em and 90%\).
-* **Test your color combinations**: Tota11y can help you identify low-contrast color combinations and tools are available to help you visualize your page with color blindness.
+* **Avoid using absolute text sizes**
+  * Older browsers are unable to resize absolute sized text, such as 16px \(pixels\). Thus, if you alter your default text size, use relative sizes where possible \(ie... small and x-large, or 1.5em and 90%\).
+* **Test your color combinations**
+  * Tota11y can help you identify low-contrast color combinations and tools are available to help you visualize your page with color blindness.
 
 ## Testing
 
