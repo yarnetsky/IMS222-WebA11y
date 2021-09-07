@@ -14,10 +14,9 @@
 * [Better Color and Text](how-to-build-better.../better-color-and-text.md)
 * [Better Video and Audio](how-to-build-better.../better-video-and-audio.md)
 * [Better Tables](how-to-build-better.../better-tables.md)
-* [Better Copy-Pasting](how-to-build-better.../better-copy-pasting.md)
-* [Better \(non-HTML\) Files](how-to-build-better.../non-html-files.md)
 
 ## Appendices and Tools
 
+* [Better \(non-HTML\) Files](appendices-and-tools/non-html-files.md)
 * [Useful Links and Tools](appendices-and-tools/useful-links-tools.md)
 

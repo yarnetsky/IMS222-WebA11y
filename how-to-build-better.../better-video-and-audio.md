@@ -25,7 +25,7 @@ Some video projects will also need audio description. This is a supplemental aud
 * If you use external video for non-personal web projects, especially for education, government, or business purposes, it is important to find video that also meets these needs. The bottom line is everyone should be able to gain the content of the video or audio content.
 * Link to video transcripts should be easily identifiable and adjacent to the video. 
 * Closed captions should reflect all sound that conveys content. This includes all relevant background noises and sound effects.
-* Ideally, users should be able to control the closed captioning during playback such as captioning color and size. Most online video 
+* Ideally, users should be able to control the closed captioning during playback such as captioning color and size. Most online video hosts, such as YouTube, have these tools built in.
 * Do not use video that automatically plays when the webpage loads.
 
 ## Testing
@@ -34,5 +34,5 @@ Accessibility testing tools are not as helpful for multimedia as the captions or
 
 ## Read more...
 
-* [Multimedia accessibility FAQ](https://www.w3.org/2008/06/video-notes)
+* [Multimedia accessibility FAQ](https://www.w3.org/2008/06/video-notes) from W3C with examples of transcripts and tools for creating accessible content.
 

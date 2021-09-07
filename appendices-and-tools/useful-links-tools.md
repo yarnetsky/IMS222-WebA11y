@@ -27,7 +27,6 @@
 
 ## **Articles and e-books**
 
-* [Eighteen Blind Library Users’ Experiences with Library Websites and Search Tools in U.S. Academic Libraries: A Qualitative Study](https://crl.acrl.org/index.php/crl/article/view/16947/19428)
 * [Web Accessibility for Developers](https://pressbooks.library.ryerson.ca/wafd/): A more advanced resource for developers used to working with HTML, CSS, and Javascript. \(ebook\)
 * [Professional Web Accessibility Auditing Made Easy](https://pressbooks.library.ryerson.ca/pwaa/) \(ebook\)
 
