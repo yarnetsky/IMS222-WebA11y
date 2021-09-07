@@ -3,29 +3,29 @@
 ## Interactions
 
 {% hint style="info" %}
-Just as video content encompasses multiple senses, there are multiple ways people use assistive technologies to perceive video and audio content. Examples include closed captioning of spoken and incidental sounds in video for viewers with auditory impairments, audio description of visuals and non-spoken activity in video for blind listeners, transcripts of video content, and variable speeds for video/audio content. Without alternative access to the content, audio and visual media can leave users who have visual or auditory impairments without access to the content.
+Just as video content encompasses multiple senses, there are multiple ways people can use assistive technologies to perceive video and audio content. The prime example most people recognize are closed captioning of spoken and incidental sounds for viewers with auditory impairments. On the flip side, audio description of visuals and non-spoken activity are fabulous for people with visual impairments. Additional examples include transcripts of video content and variable speeds for video/audio content.
 {% endhint %}
 
 ## Solutions
 
 ### Transcripts and closed captioning
 
-Content creators must proactively create multimedia in an accessible manner by including both transcripts and closed captioning. Having both may seem redundant, but each fulfills different needs. For example, a video with flashing content can cause serious issues for people who suffer from epilepsy or migraines. The transcript becomes the tool that provides the content for this video.
+Video closed captioning has come to benefit many beyond those with hearing impairments. For example, with the popularity of foreign television via streaming video hubs, many are using CC for interpreting accents.
+
+Having video with closed captioning is the minimum requirement. However, the best practice is to create your video with both closed captioning and transcripts. Having both may seem redundant, but each fulfills different needs. For example, a video with flashing content can cause serious health issues for people who suffer from epilepsy or migraines. The transcript becomes the tool that provides the content for this video.
 
 ### Audio Description
 
-Some video projects will also need audio description. This is a supplemental audio track that describes the visual elements of the video if the primary soundtrack does **not** convey the content through spoken word.
+Some video projects will also need audio description. This is a supplemental audio track that describes the visual elements of the video if the primary soundtrack does **not** convey the content through spoken word. Action and character descriptions are two aspects most often shared in audio description.
 
-### Externally-created multimedia
-
-These requirements also apply to video not created by the library. For example, if a professor wants to use a library video that lack these descriptive tools, such as an old VCR tape, we have a choice— we can either create the descriptive tools or suggest alternative resources. This is a common occurrence. As such, many colleges/universities have offices which create captioning and transcripts. The bottom line is that all students enrolled in a course must be able to access course material and should be able to do so at the same time.
+{% embed url="https://youtu.be/i\_GrYOruY7w" %}
 
 ## Additional Tips and Notes
 
-* The link to the transcript should be easily identifiable and adjacent to the video. 
-* Keep locally created video tutorials short and to the point.
+* If you use external video for non-personal web projects, especially for education, government, or business purposes, it is important to find video that also meets these needs. The bottom line is everyone should be able to gain the content of the video or audio content.
+* Link to video transcripts should be easily identifiable and adjacent to the video. 
 * Closed captions should reflect all sound that conveys content. This includes all relevant background noises and sound effects.
-* Ideally, users should be able to control the close captioning during playback such as captioning color and size.
+* Ideally, users should be able to control the closed captioning during playback such as captioning color and size. Most online video 
 * Do not use video that automatically plays when the webpage loads.
 
 ## Testing
