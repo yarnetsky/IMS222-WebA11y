@@ -1,12 +1,14 @@
 # Better Video and Audio
 
-## The Interaction
+## Interactions
 
 {% hint style="info" %}
-Without alternative access to the content, audio and visual media can leave users who have visual or auditory impairments without access to the content.
+Just as video content encompasses multiple senses, there are multiple ways people use assistive technologies to perceive video and audio content. Examples include closed captioning of spoken and incidental sounds in video for viewers with auditory impairments, audio description of visuals and non-spoken activity in video for blind listeners, transcripts of video content, and variable speeds for video/audio content. Without alternative access to the content, audio and visual media can leave users who have visual or auditory impairments without access to the content.
 {% endhint %}
 
-## Solutions: Transcripts and closed captioning
+## Solutions
+
+### Transcripts and closed captioning
 
 Content creators must proactively create multimedia in an accessible manner by including both transcripts and closed captioning. Having both may seem redundant, but each fulfills different needs. For example, a video with flashing content can cause serious issues for people who suffer from epilepsy or migraines. The transcript becomes the tool that provides the content for this video.
 
