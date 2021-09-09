@@ -64,22 +64,19 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 ## Understandable 
 
-Understandable technology is consistent in its presentation and format, predictable in its design and usage patterns, concise, multimodal, and appropriate to the audience in its voice and tone. Users should be able to comprehend the content, and learn and remember how to use the interface."
+> "Understandable technology is consistent in its presentation and format, predictable in its design and usage patterns, concise, multimodal, and appropriate to the audience in its voice and tone. Users should be able to comprehend the content, and learn and remember how to use the interface."
 
 ### Text is readable and understandable
 
-Content authors need to ensure that text content is readable and understandable to the broadest audience possible, including when it is read aloud by text-to-speech. Such content includes:
+Content creators need to ensure that text content is readable and understandable to the broadest audience possible, including when it is read aloud by text-to-speech. 
 
-* Identifying the primary language of a web page, such as Arabic, Dutch, or Korean
-* Identifying the language of text passages, phrases, or other parts of a web page
-* Providing definitions for any unusual words, phrases, idioms, and abbreviations
-* Using the clearest and simplest language possible, or providing simplified versions
+This includes identifying the primary language of a web page and any alternative language text passages, providing definitions for any unusual words, phrases, and abbreviations, and using clearest and simplest language possible for the purpose.
 
-Meeting this requirement helps software, including assistive technology, to process text content correctly. For instance, this requirement helps software to read the content aloud, to generate page summaries, and to provide definitions for unusual words such as technical jargon. It also helps people who have difficulty understanding more complex sentences, phrases, and vocabulary. In particular, it helps people with different types of cognitive disabilities.
+This helps assistive technology properly read content aloud and also helps people with different types of cognitive disabilities.
 
 ### Content appears and operates in predictable ways
 
-Many people rely on predictable user interfaces and are disoriented or distracted by inconsistent appearance or behavior. Examples of making content more predictable include:
+Many people rely on predictable user interfaces and are disoriented or distracted by inconsistent appearance or behavior. For example, include navigation and interface components that appears in the same location on every page, with the same labels, and links in the same order.
 
 * Navigation mechanisms that are repeated on multiple pages appear in the same place each time
 * User interface components that are repeated on web pages have the same labels each time
@@ -109,9 +106,7 @@ In accessibility circles, we often talk about compatibility with assistive techn
 
 Web accessibility has a set of standards called the [Web Content Accessibility Guidelines \(WCAG 2.1\)](https://www.w3.org/TR/WCAG21/). It has dozens of specifications on topics from headers and links to colors and images. To better understand the intent of these specifications, let's group them into three goals.
 
-## 
 
-[https://projects.ncsu.edu/ncsu/design/cud/pubs\_p/docs/poster.pdf](https://projects.ncsu.edu/ncsu/design/cud/pubs_p/docs/poster.pdf)
 
-**Credits**: Content adapted from [Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/) by W3C Web Accessibility Initiative
+**Credit**: Content adapted from [Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/) by W3C Web Accessibility Initiative
 
