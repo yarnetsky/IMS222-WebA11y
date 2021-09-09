@@ -28,21 +28,17 @@ Structuring your HTML properly helps a range of user agents— from mobile phone
 
 ### Content is easier to see and hear
 
-Distinguishable content is easier to see and hear. Such content includes:
+The goal here is to help people distinguish important information on your site whether they are using a desktop web browser or a screen reader using a Braille-readout. For example, we want to ensure...
 
-* Color is not used as the only way of conveying information or identifying content
-* Default foreground and background color combinations provide sufficient contrast
-* When users resize text up to 400% or change text spacing, no information is lost
-* Text reflows in small windows \(“viewports”\) and when users make the text larger
-* Images of text are resizable, replaced with actual text, or avoided where possible
-* Users can pause, stop, or adjust the volume of audio that is played on a website
-* Background audio is low or can be turned off, to avoid interference or distraction
-
-Meeting this requirement helps separate foreground from background, to make important information more distinguishable. This includes considerations for people who do not use assistive technologies and for people using assistive technologies who may observe interference from prominent audio or visual content in the background. For instance, many people with color blindness do not use any particular tools and rely on a proper design that provides sufficient color contrast between text and its surrounding background. 
+* Color is not the only means of conveying information or identifying content
+* The foreground and background color combinations provide sufficient contrast
+* Our content is still readable when a person drastically enlarges the text
+* That our content reflows well on small screens such as cellphones.
+* Users can control the playing and volume of audio
 
 ## Operable 
 
-"Operability means that a user can successfully use controls, buttons, navigation, and other necessary interactive elements. For many users, this means identifying an interface control visually, and then clicking, tapping, or swiping. For other users, using a computer keyboard or voice commands may be the only means by which they can operate and control the interface."
+This means anyone can successfully use the controls, buttons, navigation, and other interactive elements of your website. For example, most users can see the controls for an image carousel and click the forward and reverse buttons. Others however, also need to be able to control the carousel with a keyboard or voice commands. Our coding needs to ensure both can occur. Here are the goals...
 
 ### Your site needs to be functional from a keyboard
 
