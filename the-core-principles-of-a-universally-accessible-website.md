@@ -54,29 +54,17 @@ Content that flashes at certain rates or patterns can cause photosensitive react
 
 ### Users can easily navigate, find content, and determine where they are
 
-Well organized content helps users to orient themselves and to navigate effectively. Such content includes:
+Well organized content helps users to orient themselves and to navigate effectively. Good examples include pages having clear titles, pages organized using descriptive section headings, descriptive link titles, and visual indicators showing where in a site they are located \(such as highlighting current page in a menu\).
 
-* Pages have clear titles and are organized using descriptive section headings
-* There is more than one way to find relevant pages within a set of web pages
-* Users are informed about their current location within a set of related pages
-* There are ways to bypass blocks of content that are repeated on multiple pages
-* The keyboard focus is visible, and the focus order follows a meaningful sequence
-* The purpose of a link is evident, ideally even when the link is viewed on its own
+### Users can use input methods beyond the keyboard
 
-Meeting this requirement helps people to navigate through web pages in different ways, depending on their particular needs and preferences. For instance, while some people rely on hierarchical navigation structures such as menu bars to find specific web pages, others rely on search functions on websites instead. Some people may be seeing the content while others may be hearing it or seeing and hearing it at the same time. Some people may be using the content with only a mouse or a keyboard, while others may be using both.
-
-#### Users can use input methods beyond the keyboard <a id="modalities"></a>
-
-Input methods beyond keyboard, such as touch, voice recognition, and gestures make content easier to use for many people. Yet not everyone can use each of these input methods. Some of the ways you can do this is providing alternative methods of input, especially is gestures require fine movement; and providing undo functionality if accidental activation is possible, 
-
-* Functionality that is activated by movement can also be activated through user interface components
-* Buttons, links, and other active components are large enough to make them easier to activate by touch
+Input methods beyond the keyboard, such as touch, voice recognition, and gestures, make content easier to use for many people. Important considerations include, providing alternative methods of input \(especially is gestures require fine movement\), making buttons, links, and other active interface elements large enough to make them easy to activate by touch; and providing undo functionality if accidental activation is possible.
 
 Meeting this requirement makes the content easier to use for many people with a wide range of abilities using a wide range of devices. This includes content used on mobile phones, tablet computers, and self-service terminals such as ticketing machines.
 
 ## Understandable 
 
-"Understandable technology is consistent in its presentation and format, predictable in its design and usage patterns, concise, multimodal, and appropriate to the audience in its voice and tone. Users should be able to comprehend the content, and learn and remember how to use the interface."
+Understandable technology is consistent in its presentation and format, predictable in its design and usage patterns, concise, multimodal, and appropriate to the audience in its voice and tone. Users should be able to comprehend the content, and learn and remember how to use the interface."
 
 ### Text is readable and understandable
 
