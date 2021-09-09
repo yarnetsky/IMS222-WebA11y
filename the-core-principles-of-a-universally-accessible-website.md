@@ -10,7 +10,7 @@ If any of these fail, your reader can miss the intended meaning of your content.
 
 To help you navigate what is required to make your work accessible, there are four principles which go by the acronym POUR— _perceivable_, _operable_, _understandable_, and _robust_. These principals each cover a lot of ground, but come together to outline what's needed to make your site universally accessible.
 
-Note: There are official national and international standards that play a vital role in the requirements for each of these components. Some of these requirements are easy to meet and others require technical skills or advanced knowledge of how people use the Web. In all cases, [involving users early and throughout your web projects](https://www.w3.org/WAI/test-evaluate/involving-users/) will make your work better and easier.
+Two important notes. First, there are official national and international standards that play a vital role in the requirements for each of these components. Secondly, while some of these requirements are easy to meet, others require technical skills or advanced knowledge of how people use the Web. However, being aware of 
 
 ## Perceivable
 
@@ -42,36 +42,15 @@ This means anyone can successfully use the controls, buttons, navigation, and ot
 
 ### Your site needs to be functional from a keyboard
 
-Many people do not use the mouse and rely on the keyboard to interact with the Web. This requires keyboard access to all functionality, including form controls, input, and other user interface components.
-
-Keyboard accessibility includes:
-
-* All functionality that is available by mouse is also available by keyboard
-* Keyboard focus does not get trapped in any part of the content
-* Web browsers, authoring tools, and other tools provide keyboard support
-
-Meeting this requirement helps keyboard users, including people using alternative keyboards such as keyboards with ergonomic layouts, on-screen keyboards, or switch devices. It also helps people using voice recognition \(speech input\) to operate websites and to dictate text through the keyboard interface.
+Many people do not use the mouse and rely on the keyboard to interact with the Web. This means your entire website interface — from forms to dropdown menus — need to be keyboard accessible. Proper coding of your page also helps people using voice recognition to operate websites.
 
 ### Users have enough time to read and use the content
 
-Some people need more time than others to read and use the content. For instance, some people require more time to type text, understand instructions, operate controls, or to otherwise complete tasks on a website.
-
-Examples of providing enough time include providing mechanisms to:
-
-* Stop, extend, or adjust time limits, except where necessary
-* Pause, stop, or hide moving, blinking, or scrolling content
-* Postpone or suppress interruptions, except where necessary
-* Re-authenticate when a session expires without losing data
+Many sites rotate through content on a timer or timeout when an action does not take place quickly enough. However, some people need more time to read, use the content, type text, or operate controls. For these users it's critical we provide means of stopping or extending time limits, and pausing content.
 
 ### Content does not cause seizures and physical reactions
 
-Content that flashes at certain rates or patterns can cause photosensitive reactions, including seizures. Flashing content is ideally avoided entirely or only used in a way that does not cause known risks. Also animations and moving content can cause discomfort and physical reactions.
-
-Examples of avoiding causing seizures and physical reactions:
-
-* Do not include content that flashes at particular rates and patterns
-* Warn users before flashing content is presented, and provide alternatives
-* Provide mechanisms to switch off animations, unless they are essential
+Content that flashes at certain rates or patterns can cause photosensitive reactions, including seizures. Flashing content is ideally avoided entirely or only used in a way that does not cause known risks. If the flashing is unavoidable, include warnings and provide mechanisms to switch off animations.
 
 ### Users can easily navigate, find content, and determine where they are
 
@@ -86,13 +65,10 @@ Well organized content helps users to orient themselves and to navigate effectiv
 
 Meeting this requirement helps people to navigate through web pages in different ways, depending on their particular needs and preferences. For instance, while some people rely on hierarchical navigation structures such as menu bars to find specific web pages, others rely on search functions on websites instead. Some people may be seeing the content while others may be hearing it or seeing and hearing it at the same time. Some people may be using the content with only a mouse or a keyboard, while others may be using both.
 
-#### Users can use different input modalities beyond keyboard <a id="modalities"></a>
+#### Users can use input methods beyond the keyboard <a id="modalities"></a>
 
-Input modalities beyond keyboard, such as touch activation, voice recognition \(speech input\), and gestures make content easier to use for many people. Yet not everyone can use each of these input modalities, and to the same degree. Particular design considerations maximize the benefit of these input modalities. This includes:
+Input methods beyond keyboard, such as touch, voice recognition, and gestures make content easier to use for many people. Yet not everyone can use each of these input methods. Some of the ways you can do this is providing alternative methods of input, especially is gestures require fine movement; and providing undo functionality if accidental activation is possible, 
 
-* Gestures that require dexterity or fine movement have alternatives that do not require high dexterity
-* Components are designed to avoid accidental activation, for example by providing undo functionality
-* Labels presented to users match corresponding object names in the code, to support activation by voice
 * Functionality that is activated by movement can also be activated through user interface components
 * Buttons, links, and other active components are large enough to make them easier to activate by touch
 
