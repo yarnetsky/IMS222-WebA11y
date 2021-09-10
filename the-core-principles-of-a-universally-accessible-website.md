@@ -10,7 +10,7 @@ If any of these fail, your reader can miss the intended meaning of your content.
 
 To help you navigate what is required to make your work accessible, there are four principles which go by the acronym POUR— _perceivable_, _operable_, _understandable_, and _robust_. These principals each cover a lot of ground, but come together to outline what's needed to make your site universally accessible.
 
-Two important notes. First, there are official national and international standards that play a vital role in the requirements for each of these components. Secondly, while some of these requirements are easy to meet, others require technical skills or advanced knowledge of how people use the Web. However, being aware of 
+Two important notes. First, there are [official national and international standards](https://www.w3.org/TR/WCAG21/) that play a vital role in the requirements for each of these components. Secondly, while some of these requirements are easy to meet, others require technical skills or advanced knowledge of how people use the Web. In this guide, we will focus on the easier to meet requirements that you can fulfill now!
 
 ## Perceivable
 
