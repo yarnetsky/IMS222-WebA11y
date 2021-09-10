@@ -1,4 +1,4 @@
-# Introduction
+# Introduction to WebA11y
 
 ### Universal access has greater than expected benefits
 

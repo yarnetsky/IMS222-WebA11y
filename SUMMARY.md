@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction to WebA11y](README.md)
 * [The four principles of universally accessible websites \(POUR\)](the-core-principles-of-a-universally-accessible-website.md)
 * [How is content perceived with assistive technologies?](how-is-content-perceived.md)
 
