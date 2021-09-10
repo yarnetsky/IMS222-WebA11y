@@ -28,17 +28,17 @@ Structuring your HTML properly helps a range of user agents— from mobile phone
 
 ### Content is easier to see and hear
 
-The goal here is to help people distinguish important information on your site whether they are using a desktop web browser or a screen reader using a Braille-readout. For example, we want to ensure...
+The goal here is to help people distinguish important information on your site whether they are using a desktop web browser or a screen reader using a Braille-readout. For example, we want to ensure that...
 
-* Color is not the only means of conveying information or identifying content
-* The foreground and background color combinations provide sufficient contrast
-* Our content is still readable when a person drastically enlarges the text
-* That our content reflows well on small screens such as cellphones.
-* Users can control the playing and volume of audio
+* Color is not the only means of conveying information or identifying content.
+* The foreground and background color combinations provide sufficient contrast.
+* Our content is still readable when a person drastically enlarges the text.
+* Our content flows well both on large and small screens such as cellphones.
+* Users can control the audio — both play/pause and its volume.
 
 ## Operable 
 
-This means anyone can successfully use the controls, buttons, navigation, and other interactive elements of your website. For example, most users can see the controls for an image carousel and click the forward and reverse buttons. Others however, also need to be able to control the carousel with a keyboard or voice commands. Our coding needs to ensure both can occur. Here are the goals...
+This means anyone can successfully use all the interactive elements of your website. For example, most users can see the controls for an image carousel and click the forward and reverse buttons. Others however, also need to be able to control the carousel with a keyboard or voice commands. Our coding needs to ensure both can occur. Here are the goals...
 
 ### Your site needs to be functional from a keyboard
 
@@ -68,43 +68,27 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 ### Text is readable and understandable
 
-Content creators need to ensure that text content is readable and understandable to the broadest audience possible, including when it is read aloud by text-to-speech. 
-
-This includes identifying the primary language of a web page and any alternative language text passages, providing definitions for any unusual words, phrases, and abbreviations, and using clearest and simplest language possible for the purpose.
-
-This helps assistive technology properly read content aloud and also helps people with different types of cognitive disabilities.
+Content creators need to ensure that text content is readable and understandable to the broadest audience possible. Examples include identifying the languages used on a web page, providing definitions for any unusual words and abbreviations, and using clearest and simplest language possible for the purpose. This helps assistive technology properly read content aloud and also helps people with different types of cognitive disabilities.
 
 ### Content appears and operates in predictable ways
 
-Many people rely on predictable user interfaces and are disoriented or distracted by inconsistent appearance or behavior. For example, include navigation and interface components that appears in the same location on every page, with the same labels, and links in the same order.
-
-* Navigation mechanisms that are repeated on multiple pages appear in the same place each time
-* User interface components that are repeated on web pages have the same labels each time
-* Significant changes on a web page do not happen without the consent of the user
-
-Meeting this requirement helps people to quickly learn the functionality and navigation mechanisms provided on a website, and to operate them according to their specific needs and preferences. For instance, some people assign personalized shortcut keys to functions they frequently use to enhance keyboard navigation. Others memorize the steps to reach certain pages or to complete processes on a website. Both rely on predictable and consistent functionality.
+Many people can become disoriented or distracted by inconsistent site appearance or behavior. Thus, content, including navigation and interface components, need to appear in the same location on every page with the same labeling. With consistency, people can quickly learn the functionality and navigation provided on a website and to operate them according to their needs.
 
 ### Users are helped to avoid and correct mistakes
 
-Forms and other interaction can be confusing or difficult to use for many people, and, as a result, they may be more likely to make mistakes. Examples of helping users to avoid and correct mistakes include:
-
-* Descriptive instructions, error messages, and suggestions for correction
-* Context-sensitive help for more complex functionality and interaction
-* Opportunity to review, correct, or reverse submissions if necessary
-
-Meeting this requirement helps people who do not see or hear the content, and may not recognize implicit relationships, sequences, and other cues. It also helps people who do not understand the functionality, are disoriented or confused, forget, or make mistakes using forms and interaction for any other reason.
+Forms and other interaction can be confusing or difficult to use for many people, and, as a result, they may be more likely to make mistakes. We can program our pages to help users to avoid and correct mistakes by including descriptive instructions, error messages, and suggestions for correction, and providing opportunities to review, correct, or reverse submissions if necessary.
 
 ## Robust 
 
 If you do the above, your content becomes more compatible with current and future tools. It ensures your markup is compatible with different browsers, assistive technologies, and other user agents. 
 
-"Robust I.T. is standards-compliant, and designed to function on all appropriate technologies. Users should be able to choose the technology they use to interact with websites, online documents, multimedia, and other information formats."
+> "Robust I.T. is standards-compliant, and designed to function on all appropriate technologies. Users should be able to choose the technology they use to interact with websites, online documents, multimedia, and other information formats."
 
-In accessibility circles, we often talk about compatibility with assistive technologies, but we also need to keep our content usable for the future "Internet of Things." Will your refrigerator be able to read a recipe and compare it to the contents of your refrigerator? If you recipe is marked up properly today, then it should be robust enough to succeed.
+We often talk about compatibility with assistive technologies, such as screen readers, but we also need to keep our content usable for the future. For example, will your refrigerator be able to read a recipe and compare it to the contents of your refrigerator? If you recipe is marked up properly today, then it should be robust enough to succeed.
 
-"POUR principles were developed to describe web accessibility, but they can be applied to almost any accessibility question. Technology providers must ensure that their users all can perceive, operate, and understand their technology, and that the technology is robust enough to work across a spectrum of technologies, including assistive technology."
+## Conclusion
 
-Web accessibility has a set of standards called the [Web Content Accessibility Guidelines \(WCAG 2.1\)](https://www.w3.org/TR/WCAG21/). It has dozens of specifications on topics from headers and links to colors and images. To better understand the intent of these specifications, let's group them into three goals.
+> "POUR principles were developed to describe web accessibility, but they can be applied to almost any accessibility question. Technology providers must ensure that their users all can perceive, operate, and understand their technology, and that the technology is robust enough to work across a spectrum of technologies, including assistive technology."
 
 
 
