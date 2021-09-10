@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [The four principles of universally accessible websites \(POUR\)](the-core-principles-of-a-universally-accessible-website.md)
 * [How is content perceived with assistive technologies?](how-is-content-perceived.md)
-* [Simple accessibility testing tools](simple-accessibility-testing-tools.md)
 
 ## How to build better...
 
@@ -17,6 +16,7 @@
 
 ## Appendices and Tools
 
+* [Simple accessibility testing tools](appendices-and-tools/simple-accessibility-testing-tools.md)
 * [Better \(non-HTML\) Files](appendices-and-tools/non-html-files.md)
 * [Useful Links and Tools](appendices-and-tools/useful-links-tools.md)
 

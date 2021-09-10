@@ -1,11 +1,11 @@
 # How is content perceived with assistive technologies?
 
-While there are [many types of assistive technology](https://webaccess.berkeley.edu/resources/assistive-technology), we will focus on screen readers which communicates the structure and content of web pages via simulated speech or a Braille readout. Many of the best practices that will allow your content to be read via a screen reader will also help with other assistive technologies.
+While there are [many types of assistive technology](https://webaccess.berkeley.edu/resources/assistive-technology), we will focus on screen readers which communicate the structure and content of web pages via simulated speech or a Braille readout. Many of the best practices that will allow your content to be understood via a screen reader will also help with other assistive technologies.
 
-Additional types of assistive technologies include 
+Additional types of assistive technologies include...
 
-* Screen magnifiers to enlarge the text and graphics on the screen. \(Think magnifying glass for print\)
-* Text readers are related to screen readers, but focus on reading specified chunks of text and not reading everything on the page as screen readers would.
+* Screen magnifiers to enlarge the text and graphics on the screen. This would be similar in purpose to a magnifying glass for print materials.
+* Text readers have similar technologies to screen readers, but focus on reading specified chunks of text.
 * Speech input software to help people who would have difficulties with typing.
 * Alternative input devices for folks who might not have the dexterity/ability to use a mouse or keyboard. Examples include eye tracking, head pointers, cursor controlled-on screen keyboards.
 
@@ -41,7 +41,7 @@ On the other hand, what if we only make the words bold? It will stand out visual
 <p>This is the first paragraph of the article.</p>
 ```
 
-When used correctly, our website management software, such as LibGuides or Wordpress, can handle most of these simple coding needs. However, as we write content within them, we can still introduce many errors. These errors, in turn, can make reading the pages with a screen reader difficult at best.
+When used correctly, a content management system, such as Wordpress, can handle most of these simple coding needs. However, as we write content within them, we can still introduce many errors. These errors, in turn, can make reading the pages with a screen reader difficult at best. When we're marking up our content in HTML from scratch, than the entire process is in our control. Our next section focuses on how to build better content!
 
 ## Read more...
 
