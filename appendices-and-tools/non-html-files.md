@@ -15,9 +15,9 @@ If you're using an application that creates HTML for you, be very careful on how
 
 When copying and pasting from another source, such as Word, hidden style code can be copied along with the content. These hidden styles can break an otherwise accessible document.
 
-## Solution: How to avoid these hidden styles
+### Solution: How to avoid these hidden styles
 
-### Many rich text editors have these useful tools: ![Rich text editor toolbar screenshot of buttons used for removing hidden text formatting](http://s3.amazonaws.com/libapps/accounts/3908/images/lg-richtexteditor-toolbar.png)
+#### Many rich text editors have these useful tools: ![Rich text editor toolbar screenshot of buttons used for removing hidden text formatting](http://s3.amazonaws.com/libapps/accounts/3908/images/lg-richtexteditor-toolbar.png)
 
 * ![Button to use for removing hidden styles from copied text.](http://s3.amazonaws.com/libapps/accounts/3908/images/lg-pasteplainbutton.png) The "clipboard-T" \(Paste as Plain Text\) button will show a paste box that strips out all text formatting and leave behind plain text. Best for simple text.
 * ![Button to use for leaving the original formatting as in the Word document.](http://s3.amazonaws.com/libapps/accounts/3908/images/lg-pastewordbutton.png) The "clipboard-W" \(Paste from Word\) button will show a paste box that keeps the formatting structure from the source, but strips out extra styling. 

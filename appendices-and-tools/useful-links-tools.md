@@ -9,9 +9,6 @@
 * [Evaluation tools overview](https://www.w3.org/WAI/test-evaluate/tools/)
 * [Project Enable Resources](https://projectenable.syr.edu/RESOURCES)
 * [A11y Project](https://a11yproject.com/resources): Extensive resource list
-* [LibGuides Presentation on Accessibility](http://guides.cuny.edu/presentation/accessibility)
-* [ACRL - Accessibility Testing](http://acrl.ala.org/techconnect/post/accessibility-testing-libguides-2-0)
-* [ASCLA - Library Accessibility Tipsheets](http://www.ala.org/ascla/resources/tipsheets)
 * [World Wide Access: Accessible Web Design](http://www.washington.edu/doit/videos/index.php?vid=35)
 * [Section 508 and Accessibility](http://guides.lib.ucr.edu/508accessibility)
 * [Web Content Accessibility Guidelines—for People Who Haven't Read Them](https://24ways.org/2017/wcag-for-people-who-havent-read-them/)A nice plain English guide
@@ -34,4 +31,6 @@
 
 * [ChromeVox screen reader \(Chrome extension\)](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
   * Help file: [Keyboard shortcuts](https://www.chromevox.com/keyboard_shortcuts.html)
-
+* [NVDA screen reader](https://www.nvaccess.org/download/) for Windows
+* [How to use Voice Over](https://www.disability.illinois.edu/academic-support/assistive-technology/mac-os-x-voiceover) screen reader for Mac
+* 
