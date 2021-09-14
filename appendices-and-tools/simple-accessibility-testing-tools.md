@@ -10,7 +10,7 @@ The [**Tota11y**](http://khan.github.io/tota11y/) javascript bookmarklet was cre
 
 Is your bookmarks bar visible in your browser? If so, try this option to install. Click and hold the Tota11y link in the box below, then drag the link from the box into your bookmarks bar. To activate the tool, simply click the bookmark.
 
-[**Tota11y**](javascript:(function(){var%20tota11y=document.createElement('SCRIPT');tota11y.type='text/javascript';tota11y.src='https://khan.github.io/tota11y/dist/tota11y.min.js';document.getElementsByTagName('head')[0].appendChild(tota11y);})();)
+<a href="javascript:(function(){var%20tota11y=document.createElement('SCRIPT');tota11y.type='text/javascript';tota11y.src='https://khan.github.io/tota11y/dist/tota11y.min.js';document.getElementsByTagName('head')[0].appendChild(tota11y);})();">Tota11y</a>
 
 ### Install option 2: Chrome or Firefox extension
 
