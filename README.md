@@ -2,7 +2,7 @@
 
 ### Universal access has greater than expected benefits
 
-When we think of web accessibility, we often think of special encoding required so people who are blind or deaf can understand the content of our website. This is true to an extent, but miss. However, a well-constructed website benefits  all web users on multiple levels. Here's just one example...
+When we think of web accessibility, we often think of special encoding required so people who are blind or deaf can understand the content of our website. This is true, but also misses the fact that a well-constructed website benefits all web users on multiple levels. Closed captioning for video is just one example...
 
 * A person living with hearing loss can benefit from seeing closed captions on video convey the spoken words in text. 
 * A person who has difficulty differentiating spoken words from background noise can also benefit.
