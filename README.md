@@ -2,34 +2,24 @@
 
 ### Universal access has greater than expected benefits
 
-When we think of web accessibility, we often think of special encoding required so people who are blind or deaf can understand the content of our website. This is true, but also misses the fact that a well-constructed website benefits all web users on multiple levels. Closed captioning for video is just one example...
+We often think of web accessibility as special encoding required so people who are blind or deaf can understand the content of our websites. This is true to an extent, but also misses the fact that a well-constructed website benefits all web users on multiple levels. Closed captioning for web video is one example...
 
-* A person living with hearing loss can benefit from seeing closed captions on video convey the spoken words in text. 
+* For a person living with hearing loss, reading closed captions makes understanding the spoken words and audible content easy.
 * A person who has difficulty differentiating spoken words from background noise can also benefit.
-* People who love overseas television like captions to better understand accents. 
-* Sound quality of the video itself can suffer if it was made with non-professional equipment or streamed over slower cell networks.
+* People who love overseas television like captions as they can better understand accents.
+* Captions also help when the sound quality of the video itself suffers from being made with non-professional equipment or being streamed over slower cell networks.
 
-In all these instances captioning walks in for the win!
-
-That's just one example of how using assistive technologies can benefit everyone. 
-
-### **People with a wide range of needs use assistive technologies**
-
-### **We're legally obliged to create universally accessible sites**
-
-For example, [dozens of colleges and universities across the United States are facing legal action](https://www.d.umn.edu/~lcarlson/atteam/lawsuits.html) over inaccessible technology and online resources. Having accessible content from the point of creation can save extensive time and effort spent on accessibility remediation \(and potentially save legal costs as well\).
+In all these instances captioning walks in for the win and this is just one example of how using assistive technologies can benefit everyone. 
 
 ### **Fear not, the basics are easy**
 
-Web accessibility has a set of standards called the [Web Content Accessibility Guidelines \(WCAG 2.1\)](https://www.w3.org/TR/WCAG21/). It has dozens of specifications on topics from headers and links to colors and images. To better understand the intent of these specifications, let's group them into three goals.
-
-While making advanced web accessibility may require development experience, making the basic content we all create accessible can be accomplished by us all.
+Web accessibility has a set of standards called the [Web Content Accessibility Guidelines \(WCAG 2.1\)](https://www.w3.org/TR/WCAG21/). It has dozens of specifications on topics from headers and links to colors and images. While making advanced web accessibility may require development experience, making the basic content we all create accessible can be accomplished by us all.
 
 ### What we'll learn
 
-The contents at left do a fair job outlining what we'll cover in this module.
+In part one we'll review the principals of universal access  how content is perceived with assistive technologies
 
-
+In this module, we will focus on the content aspects of our website as those are the easiest to encode. Content is also 
 
 ### Footnote
 
