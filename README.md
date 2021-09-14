@@ -2,7 +2,11 @@
 
 ### Universal access has greater than expected benefits
 
-A person with hearing loss can obviously benefit from closed captioned video. But so can a person who has difficulty differentiating spoken words from background noise. Everyone can benefit when many videos are made with non-professional equipment and streamed over slower cell networks where the sound quality of the video itself can suffer. In all these instances captioning walks in for the win!
+Websites constructed to allow full access benefit everyone on multiple levels.
+
+A person with hearing loss can obviously benefit from closed captioned video. But so can a person who has difficulty differentiating spoken words from background noise. People who love overseas television like captions to better understand accents. Everyone can benefit when videos are often made with non-professional equipment and are streamed over slower cell networks. Closed captions support viewing when the sound quality of the video itself can suffer. In all these instances captioning walks in for the win!
+
+That's just one example of how using assistive technologies can benefit everyone. 
 
 ### **People with a wide range of needs use assistive technologies**
 
