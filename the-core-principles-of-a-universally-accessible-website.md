@@ -24,9 +24,9 @@ Under each of the principles are guidelines and Success Criteria that help to ad
 
 ## Perceivable
 
-Everyone should be able to identify and use the content you intend to share with your website. For many, perceiving our web content is primarily visual. However, for those using assistive technologies, the perception may be via sound or touch. To make our content perceivable by all...
+Everyone should be able to understand and use the content of your website with their senses. For many, perceiving our web content is primarily visual. However, for those using assistive technologies, the perception may be via sound or touch. To make our content more perceivable by all...
 
-* **Text alternatives should exist for all non-text content such as images and multimedia**. Examples include closed captioning and transcripts for audio and video content, text descriptions of images and charts, and labels for interactive elements of your site \(such as forms and search buttons\).
+* **Text alternatives should exist for non-text content such as images and multimedia**. Examples include closed captioning and transcripts for audio and video content, text descriptions of images and charts, and labels for interactive elements of your site \(such as forms and search buttons\).
 * **Content can be presented in different ways**. We need to structure our sites so they can be properly used on a range of user agents. If your headings, lists, tables, and content are marked-up properly, then your content could be correctly read aloud, enlarged, or adapted to meet the needs and preferences of different people.
 * **Content is easier to see and hear**. Our goal here is to help people distinguish important information on your site whether they are using a desktop web browser or a screen reader using a Braille-readout. For example, we want to ensure that color is not the only means of conveying information or identifying content, that foreground and background color combinations provide sufficient contrast, that our content is still readable when a person drastically enlarges the text, that our content flows well both on large and small screens such as cellphones, and that users can control the audio — both play/pause and its volume.
 
