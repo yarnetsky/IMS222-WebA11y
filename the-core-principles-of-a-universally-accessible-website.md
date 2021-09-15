@@ -10,29 +10,25 @@ If **any** of these fail, your reader can miss the intended meaning of your cont
 
 To help you navigate what is required to make your work accessible, there are four overarching principles which go by the acronym POUR: _Perceivable_, O_perable_, _Understandable_, and _Robust_. These principals each cover a lot of ground, but come together to outline what's needed to make your site universally accessible.
 
+------
+
+Operable - User interface components and navigation must be operable. This means that users must be able to operate the interface \(the interface cannot require interaction that a user cannot perform\)
+
+Understandable - Information and the operation of user interface must be understandable. This means that users must be able to understand the information as well as the operation of the user interface \(the content or operation cannot be beyond their understanding\)
+
+Robust - Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies. This means that users must be able to access the content as technologies advance \(as technologies and user agents evolve, the content should remain accessible\)
+
+If any of these are not true, users with disabilities will not be able to use the Web.
+
+Under each of the principles are guidelines and Success Criteria that help to address these principles for people with disabilities. There are many general usability guidelines that make content more usable by all people, including those with disabilities. However, in WCAG 2.0, we only include those guidelines that address problems particular to people with disabilities. This includes issues that block access or interfere with access to the Web more severely for people with disabilities.
+
 ## Perceivable
 
-Everyone should be able to identify and use the content you intend to share with your website. They should also be able to identify and use your website's interface elements \(such as drop-down menus\). For many this means perceiving is primarily visually, while for others, the perception may be via sound or touch. 
+Everyone should be able to identify and use the content you intend to share with your website. For many, perceiving our web content is primarily visual. However, for those using assistive technologies, the perception may be via sound or touch. To make our content perceivable by all...
 
-Key methods for fulfilling this include...
-
-### Text alternatives for non-text content such as images and multimedia
-
-Good examples include closed captioning and/or transcripts for video or audio material, description of images and charts, and labels for interactive elements of your site \(such as forms and search buttons\).
-
-### Content can be presented in different ways
-
-Structuring your HTML properly helps a range of user agents— from mobile phones to assistive technologies — properly display your content. If your headings, lists, tables, forms, and content are marked-up properly, then your content could be correctly read aloud, enlarged, or adapted to meet the needs and preferences of different people.
-
-### Content is easier to see and hear
-
-The goal here is to help people distinguish important information on your site whether they are using a desktop web browser or a screen reader using a Braille-readout. For example, we want to ensure that...
-
-* Color is not the only means of conveying information or identifying content.
-* The foreground and background color combinations provide sufficient contrast.
-* Our content is still readable when a person drastically enlarges the text.
-* Our content flows well both on large and small screens such as cellphones.
-* Users can control the audio — both play/pause and its volume.
+* **Text alternatives should exist for all non-text content such as images and multimedia**. Examples include closed captioning and transcripts for audio and video content, text descriptions of images and charts, and labels for interactive elements of your site \(such as forms and search buttons\).
+* **Content can be presented in different ways**. We need to structure our sites so they can be properly used on a range of user agents. If your headings, lists, tables, and content are marked-up properly, then your content could be correctly read aloud, enlarged, or adapted to meet the needs and preferences of different people.
+* **Content is easier to see and hear**. Our goal here is to help people distinguish important information on your site whether they are using a desktop web browser or a screen reader using a Braille-readout. For example, we want to ensure that color is not the only means of conveying information or identifying content, that foreground and background color combinations provide sufficient contrast, that our content is still readable when a person drastically enlarges the text, that our content flows well both on large and small screens such as cellphones, and that users can control the audio — both play/pause and its volume.
 
 ## Operable 
 
