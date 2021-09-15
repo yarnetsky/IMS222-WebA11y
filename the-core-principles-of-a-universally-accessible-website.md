@@ -8,9 +8,7 @@ Universal access to your web content relies on several components working togeth
 
 If **any** of these fail, your reader can miss the intended meaning of your content. Your reader loses and so do you because the failure prevents your ability to communicate.
 
-To help you navigate what is required to make your work accessible, there are four principles which go by the acronym POUR— _perceivable_, _operable_, _understandable_, and _robust_. These principals each cover a lot of ground, but come together to outline what's needed to make your site universally accessible.
-
-Two important notes. First, there are [official national and international standards](https://www.w3.org/TR/WCAG21/) that play a vital role in the requirements for each of these components. Secondly, while some of these requirements are easy to meet, others require technical skills or advanced knowledge of how people use the Web. In this guide, we will focus on the easier to meet requirements that you can fulfill now!
+To help you navigate what is required to make your work accessible, there are four overarching principles which go by the acronym POUR: _Perceivable_, O_perable_, _Understandable_, and _Robust_. These principals each cover a lot of ground, but come together to outline what's needed to make your site universally accessible.
 
 ## Perceivable
 
@@ -89,6 +87,8 @@ We often talk about compatibility with assistive technologies, such as screen re
 ## Conclusion
 
 > "POUR principles were developed to describe web accessibility, but they can be applied to almost any accessibility question. Technology providers must ensure that their users all can perceive, operate, and understand their technology, and that the technology is robust enough to work across a spectrum of technologies, including assistive technology."
+
+Recapping an important note... First, there are[ national standards](https://www.w3.org/TR/WCAG21/) that play a vital role in the requirements for each of these components. Secondly, while some of these requirements are easy to meet, others require technical skills or advanced knowledge of how people use the Web. In this guide, we will focus on the easier to meet requirements that you can fulfill now!
 
 
 
