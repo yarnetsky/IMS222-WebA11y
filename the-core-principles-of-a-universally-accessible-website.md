@@ -2,11 +2,11 @@
 
 Universal access to your web content relies on several components working together...
 
-* **Your content** - It all starts with your content— from your text to images and multimedia. If your content is not written or coded correctly, your reader will not be able to comprehend your content.
-* **User agents** - A user agent is the software people use to access your web content. This could be any device including a desktop or mobile/tablet web browsers, ebook readers, multimedia players, browser plug-ins, and assistive technologies such as screen readers that read aloud web pages.
-* **Authoring tools** - These are tools to create web content. This could be anything from our code editor to a web content manager such as WordPress. It's also the content we embed in our websites from sources such as Instagram, YouTube, or Twitter. 
+* **Your content** - It all starts with your content— from your text to images and multimedia.
+* **User agents** - A user agent is the software people use to access your web content. This could be any device including a desktop or mobile web browsers, ebook readers, multimedia players, browser plug-ins, and assistive technologies such as screen readers that read aloud web pages.
+* **Authoring tools** - These are tools we use to create web content. This could be anything from our code editor to a web content manager such as WordPress. It's also the content we embed in our websites from sources such as Instagram, YouTube, or Twitter. 
 
-If any of these fail, your reader can miss the intended meaning of your content. Your reader loses and so do you because the failure prevents your ability to communicate.
+If **any** of these fail, your reader can miss the intended meaning of your content. Your reader loses and so do you because the failure prevents your ability to communicate.
 
 To help you navigate what is required to make your work accessible, there are four principles which go by the acronym POUR— _perceivable_, _operable_, _understandable_, and _robust_. These principals each cover a lot of ground, but come together to outline what's needed to make your site universally accessible.
 

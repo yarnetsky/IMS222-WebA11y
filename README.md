@@ -13,11 +13,11 @@ In all these instances captioning walks in for the win and this is just one exam
 
 ### **Fear not, the basics are easy**
 
-Web accessibility has a set of standards called the [Web Content Accessibility Guidelines \(WCAG 2.1\)](https://www.w3.org/TR/WCAG21/). There are dozens of specifications on topics ranging from color contrast to properly encoding interactive interface elements such as dropdown menus. While advanced web accessibility may require development experience, making the basic content we all create accessible can be accomplished by us all.
+Web accessibility has a set of standards called the [Web Content Accessibility Guidelines \(WCAG 2.1\)](https://www.w3.org/TR/WCAG21/). Here there are dozens of specifications ranging from color contrast to properly encoded interface elements such as dropdown menus. While advanced web accessibility may require development experience, making our basic content accessible can be accomplished by us all.
 
 ### What we'll learn
 
-Part one reviews the principles of universal access, how content is perceived with assistive technologies, and introduce a simple testing tool.
+In part one, we'll review the principles of universal access, how content is perceived with assistive technologies, and introduce a simple testing tool.
 
 Part two goes into the details of structuring your HTML so your web content is readily understood using assistive technology.
 
