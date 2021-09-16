@@ -1,28 +1,22 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [How a screen reader sees](how-a-screen-reader-sees.md)
+* [Introduction to WebA11y](README.md)
+* [How is content perceived with assistive technologies?](how-is-content-perceived.md)
+* [The four principles of universally accessible websites \(POUR\)](the-core-principles-of-a-universally-accessible-website.md)
+* [Simple accessibility testing tools](simple-accessibility-testing-tools.md)
 
-## Part 1: Why Should We Care?
+## How to build better...
 
-* [1.3 Three goals of a well-coded page](part-1-why-should-we-care/1.3-three-goals-of-a-well-coded-page.md)
-* [1.1 Why should we care about accessibility?](part-1-why-should-we-care/1.1-why-should-we-care-about-accessibility.md)
-* [1.2 How is content perceived](part-1-why-should-we-care/1.2-how-is-content-perceived.md)
-* [1.4 Simple accessibility testing tools](part-1-why-should-we-care/1.4-simple-accessibility-testing-tools.md)
+* [How to build...](how-to-build-better.../how-to-build.md)
+* [Better Headings](how-to-build-better.../better-headings.md)
+* [Better Images](how-to-build-better.../better-images.md)
+* [Better Hyperlinks](how-to-build-better.../better-hyperlinks.md)
+* [Better Color and Text](how-to-build-better.../better-color-and-text.md)
+* [Better Video and Audio](how-to-build-better.../better-video-and-audio.md)
+* [Better Tables](how-to-build-better.../better-tables.md)
 
-## Part 2: How to build better...
+## Appendices and Tools
 
-* [How to build better...](part-2-how-to-build-better.../untitled.md)
-* [2.1 Headings](part-2-how-to-build-better.../2.1-headers.md)
-* [2.2 Images](part-2-how-to-build-better.../2.2-images.md)
-* [2.3 Hyperlinks](part-2-how-to-build-better.../2.5-hyperlinks.md)
-* [2.4 Color and Text](part-2-how-to-build-better.../2.4-color-and-text.md)
-* [2.5 Video and Audio](part-2-how-to-build-better.../2.3-video-and-audio.md)
-* [2.6 Tables](part-2-how-to-build-better.../2.6-tables.md)
-
-## Part 3: Appendices and Tools
-
-* [Useful Links](part-3-appendices-and-tools/useful-links.md)
-* [Better Copy-Pasting](part-3-appendices-and-tools/better-copy-pasting.md)
-* [Non-HTML files](part-3-appendices-and-tools/non-html-files.md)
+* [Better \(non-HTML\) Files](appendices-and-tools/non-html-files.md)
+* [Useful Links and Tools](appendices-and-tools/useful-links-tools.md)
 
