@@ -8,7 +8,7 @@ Universal access to our web content relies on several components working togethe
 
 If **any** of these fail, your reader can miss the intended meaning of your content. Your reader loses and so do you because the failure prevents your ability to communicate.
 
-To help you navigate what is required to make your work accessible, here are four overarching principles, which go by the acronym POUR: _Perceivable_, _Operable_, _Understandable_, and _Robust_. These principals each cover a lot of ground, but come together to outline what's needed to make your site universally accessible.
+To help you navigate what is required to make your work accessible, here are four overarching principles, which go by the acronym POUR: _Perceivable_, _Operable_, _Understandable_, and _Robust_. These principals each cover a lot of ground and you'll notice some overlap, but they come together to outline what's needed to make your site universally accessible. 
 
 ## Perceivable
 
@@ -31,13 +31,11 @@ Meeting this requirement makes the content easier to use for many people with a 
 
 ## Understandable 
 
-> "Understandable technology is consistent in its presentation and format, predictable in its design and usage patterns, concise, multimodal, and appropriate to the audience in its voice and tone. Users should be able to comprehend the content, and learn and remember how to use the interface."
+Understandable technology is consistent and predictable in its design and usage patterns, concise, and appropriate to the audience in its voice and tone.
 
-* **Text is readable and understandable**: Content creators need to ensure that text content is readable and understandable to the broadest audience possible. Examples include identifying the languages used on a web page, providing definitions for any unusual words and abbreviations, and using clearest and simplest language possible for the purpose. This helps assistive technology properly read content aloud and also helps people with different types of cognitive disabilities.
-* **Content appears and operates in predictable ways**: Many people can become disoriented or distracted by inconsistent site appearance or behavior. Thus, content, including navigation and interface components, need to appear in the same location on every page with the same labeling. With consistency, people can quickly learn the functionality and navigation provided on a website and to operate them according to their needs.
-* **Users are helped to avoid and correct mistakes**: Forms and other interaction can be confusing or difficult to use for many people, and, as a result, they may be more likely to make mistakes. We can program our pages to help users to avoid and correct mistakes by including descriptive instructions, error messages, and suggestions for correction, and providing opportunities to review, correct, or reverse submissions if necessary.
-
-Understandable - Information and the operation of user interface must be understandable. This means that users must be able to understand the information as well as the operation of the user interface \(the content or operation cannot be beyond their understanding\)
+* **Text is readable and understandable**: Our content should be readable and understandable to the broadest audience possible. Examples include identifying the languages used on a web page; providing definitions for any unusual words and abbreviations; and using clearest and simplest language possible for the purpose. This helps assistive technology properly read content aloud and also helps people with different types of cognitive disabilities.
+* **Content appears and operates in predictable ways**: Many people can become disoriented or distracted by inconsistent site appearance or behavior. Thus, content, navigation, and interface components, need to appear in the same location on every page with the same labeling. With consistency, people can quickly learn the functionality and navigation provided on a website and to operate them according to their needs.
+* **Users are helped to avoid and correct mistakes**: Forms and other interactions can be confusing or difficult to use, which can result in user errors. We can program our pages to help users to avoid and/or correct mistakes. We can do this by including descriptive instructions, error messages, and suggestions for corrections. We can also provide opportunities for users to review, correct, or reverse their submissions if necessary.
 
 ## Robust 
 
