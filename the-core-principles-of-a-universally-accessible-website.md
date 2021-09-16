@@ -1,32 +1,31 @@
 # The four principles of universally accessible websites \(POUR\)
 
-Universal access to your web content relies on several components working together...
+Universal access to our web content relies on several components working together...
 
-* **Your content** - It all starts with your content— from your text to images and multimedia.
-* **User agents** - A user agent is the software people use to access your web content. This could be any device including a desktop or mobile web browsers, ebook readers, multimedia players, browser plug-ins, and assistive technologies such as screen readers that read aloud web pages.
-* **Authoring tools** - These are tools we use to create web content. This could be anything from our code editor to a web content manager such as WordPress. It's also the content we embed in our websites from sources such as Instagram, YouTube, or Twitter. 
+* **Content**: It all starts with our content— from your text to images and multimedia.
+* **User agents:** A user agent is the hardware-software people use to access our content. This could be any device including a desktop or mobile web browsers, ebook readers, multimedia players, browser plug-ins, and assistive technologies such as screen readers that read aloud web pages.
+* **Authoring tools:** These are tools we use to create web content. This could be anything from our code editor to a web content manager such as WordPress. It's also the content we embed in our websites from sources such as Instagram, YouTube, or Twitter. 
 
 If **any** of these fail, your reader can miss the intended meaning of your content. Your reader loses and so do you because the failure prevents your ability to communicate.
 
-To help you navigate what is required to make your work accessible, there are four overarching principles which go by the acronym POUR: _Perceivable_, O_perable_, _Understandable_, and _Robust_. These principals each cover a lot of ground, but come together to outline what's needed to make your site universally accessible.
+To help you navigate what is required to make your work accessible, here are four overarching principles, which go by the acronym POUR: _Perceivable_, _Operable_, _Understandable_, and _Robust_. These principals each cover a lot of ground, but come together to outline what's needed to make your site universally accessible.
 
 ## Perceivable
 
 Everyone should be able to understand and use the content of your website with their senses. For many, perceiving our web content is primarily visual. However, for those using assistive technologies, the perception may be via sound or touch. To make our content more perceivable by all...
 
 * **Text alternatives should exist for non-text content such as images and multimedia**. Examples include closed captioning and transcripts for audio and video content, text descriptions of images and charts, and labels for interactive elements of your site \(such as forms and search buttons\).
-* **Content can be presented in different ways**. We need to structure our sites so they can be properly used on a range of user agents. If your headings, lists, tables, and content are marked-up properly, then your content could be correctly read aloud, enlarged, or adapted to meet the needs and preferences of different people.
-* **Content is easier to see and hear**. Our goal here is to help people distinguish important information. In doing so, we want to ensure that color is not the only means of conveying information and that foreground and background color combinations provide sufficient contrast. Similarly, we want to ensure that our content is still readable when a person drastically enlarges the text and that our content flows well both on large and small screens.
+* **Content can be presented in different ways**. If we structure and markup our sites properly— from headings to lists — then our content will be correctly read aloud, enlarged, or adapted to meet the needs and preferences of different users.
+* **Important content is easier to distinguish, see, and hear**. Our goal here is to help people distinguish important information. For example, we want to ensure that color is not the only means of conveying information and that foreground and background color combinations provide sufficient contrast. Similarly, we want to ensure that our content is still readable when a person drastically enlarges the text and that our content flows well both on large and small screens.
 
 ## Operable
 
-This means anyone can successfully use all the interactive components of your website. For example, most users can see the controls for an image carousel and click the forward and reverse buttons. Others however, also need to be able to control the carousel with a keyboard or voice commands. Our coding needs to ensure both can occur. Here are the goals...
+This means anyone can successfully use all the interactive components of your website with multiple input devices ranging from keyboards to voice commands.
 
-* **Your site needs to be functional from a keyboard**: Many do not use a mouse and rely on the keyboard to interact with the Web. This means your entire website interface — from forms to dropdown menus — need to be keyboard accessible. Proper coding of your page also helps people using voice recognition to operate websites.
+* **Your site needs to be functional from a keyboard and alternative input devices**: Many of our users rely on the keyboard to interact with the Web or may not have the dexterity for fine mouse movements. This means your entire website interface — from forms to dropdown menus — need to be keyboard accessible; buttons, links, and other active interface elements need to be large enough to make them easy to activate by touch; and providing undo functionality if accidental activation is possible.
 * **Users have enough time to read and use the content**: Many sites rotate through content on a timer or timeout when an action does not take place quickly enough. However, some people need more time to read, use the content, type text, or operate controls. For these users it's critical we provide means of stopping or extending time limits, and pausing content.
 * **Content does not cause seizures and physical reactions**: Content that flashes at certain rates or patterns can cause photosensitive reactions, including seizures. Flashing content is ideally avoided entirely or only used in a way that does not cause known risks. If the flashing is unavoidable, include warnings and provide mechanisms to switch off animations.
-* **Users can easily navigate, find content, and determine where they are**: Well organized content helps users to orient themselves and to navigate effectively. Good examples include pages having clear titles, pages organized using descriptive section headings, descriptive link titles, and visual indicators showing where in a site they are located \(such as highlighting current page in a menu\).
-* **Users can use input methods beyond the keyboard**: Input methods beyond the keyboard, such as touch, voice recognition, and gestures, make content easier to use for many people. Important considerations include, providing alternative methods of input \(especially is gestures require fine movement\), making buttons, links, and other active interface elements large enough to make them easy to activate by touch; and providing undo functionality if accidental activation is possible.
+* **Users can easily navigate, find content, and determine where they are**: Well organized content helps users to orient themselves and to navigate effectively. For example, our pages need to have clear titles and be organized using descriptive section headings; our links need to have descriptive titles; and visual indicators should be used to show a user where they are located in a site, such as highlighting the current page in a menu..
 
 Meeting this requirement makes the content easier to use for many people with a wide range of abilities using a wide range of devices. This includes content used on mobile phones, tablet computers, and self-service terminals such as ticketing machines.
 
