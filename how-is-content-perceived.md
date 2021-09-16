@@ -4,8 +4,8 @@ While there are many types of assistive technology, we will focus on screen read
 
 [Additional types of assistive technologies include](https://webaccess.berkeley.edu/resources/assistive-technology)...
 
-* Screen magnifiers to enlarge the text and graphics on the screen. This would be similar in purpose to a magnifying glass for print materials.
-* Text readers have similar technologies to screen readers, but focus on reading specified chunks of text.
+* Screen magnifiers which can dramatically enlarge text and graphics on the screen.
+* Text readers that focus on reading specified chunks of text.
 * Speech input software to help people who would have difficulties with typing.
 * Alternative input devices for folks who might not have the dexterity/ability to use a mouse or keyboard. Examples include eye tracking, head pointers, cursor controlled-on screen keyboards.
 
@@ -15,15 +15,15 @@ Look at the [_New York Times_ website](https://www.nytimes.com) and think aloud 
 
 What are you reading to understand the page? Are you reading every word on the page? Are you skimming the headlines? Looking at the photos? The navigation? Which methods help you understand the page the easiest and/or fastest?
 
-The answer, accordingly to [eye-tracking studies](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), is that we do not read every word, but rather we skim pages looking for content that interests or serves us best. In that scan we take in things like headings and key text such as phone numbers.
+The answer, accordingly to [eye-tracking studies](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), is that we skim pages looking for content that interests or serves us best. In that scan, we focus in on things like headings and key text such as phone numbers.
 
-A person can use a screen reader in much a similar manner as they aim to understand the structure and content of a webpage. Just as we visually scan for headlines, a screen reader can accomplish the same by reading the page headings, links, and regions of the page \(such as the navigation and main content\).
+A person can use a screen reader in much a similar manner as they aim to understand the structure and content of a webpage. Just as we visually scan for headlines on nytimes.com, a screen reader can accomplish the same by reading the page headings, links, and regions of the page \(such as the navigation and main content\).
 
 But what would happen if the computer had no way of telling which is which? That is where you, as the content creator, can help.
 
 ## Making the web visible to a screen reader
 
-Screen readers cannot communicate page content and structure based on what can only be seen by eye. Rather, they rely on how our page is coded and organized. If not done properly, content can go missing or its intent lost.
+Screen readers cannot communicate page content and structure based on what can only be seen by eye. Rather, they rely on how our page is coded and organized. If not done properly, content can go missing or its intent can be lost.
 
 For example, a screen reader relies on headings coded into the page to communicate article headlines or section titles within an article. For example, `<h1>` is for a top level heading, `<h2>` for second level, etc.
 
@@ -41,7 +41,7 @@ On the other hand, what if we only make the words bold? It will stand out visual
 <p>This is the first paragraph of the article.</p>
 ```
 
-When used correctly, a content management system, such as Wordpress, can handle most of these simple coding needs. However, as we write content within them, we can still introduce many errors. These errors, in turn, can make reading the pages with a screen reader difficult at best. When we're marking up our content in HTML from scratch, than the entire process is in our control. Our next section focuses on how to build better content!
+When used correctly, a content management system, such as Wordpress, can handle most of these simple coding needs. However, as we write content within them, we can still introduce many errors. These errors, in turn, can make reading the pages with a screen reader difficult at best. When we're marking up our content in HTML from scratch, than the entire process is in our control. 
 
 ## Read more...
 
