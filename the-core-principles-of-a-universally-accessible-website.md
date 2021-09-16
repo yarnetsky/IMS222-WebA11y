@@ -1,13 +1,5 @@
 # The four principles of universally accessible websites \(POUR\)
 
-Universal access to our web content relies on several components working together...
-
-* **Content**: It all starts with our content— from your text to images and multimedia.
-* **User agents:** A user agent is the hardware-software people use to access our content. This could be any device including a desktop or mobile web browsers, ebook readers, multimedia players, browser plug-ins, and assistive technologies such as screen readers that read aloud web pages.
-* **Authoring tools:** These are tools we use to create web content. This could be anything from our code editor to a web content manager such as WordPress. It's also the content we embed in our websites from sources such as Instagram, YouTube, or Twitter. 
-
-If **any** of these fail, your reader can miss the intended meaning of your content. Your reader loses and so do you because the failure prevents your ability to communicate.
-
 To help you navigate what is required to make your work accessible, here are four overarching principles, which go by the acronym POUR: _Perceivable_, _Operable_, _Understandable_, and _Robust_. These principals each cover a lot of ground and you'll notice some overlap, but they come together to outline what's needed to make your site universally accessible. 
 
 ## Perceivable

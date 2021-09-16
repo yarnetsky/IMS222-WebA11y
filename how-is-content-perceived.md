@@ -1,6 +1,14 @@
 # How is content perceived with assistive technologies?
 
-While there are many types of assistive technology, we will focus on screen readers which communicate the structure and content of web pages via simulated speech or a Braille readout. Many of the best practices that will allow your content to be understood via a screen reader will also help with other assistive technologies.
+Universal access to our web content relies on several components working together...
+
+* **Content**: It all starts with our content— from text to images and multimedia.
+* **Authoring tools:** These are tools we use to create web content. This could be anything from our code editor to a web content manager such as WordPress. It's also the content we embed in our websites from sources such as Instagram, YouTube, or Twitter.
+* **User agents:** Finally, user agents are the hardware-software people use to access our content. This could be any device including a desktop or mobile web browsers, ebook readers, multimedia players, browser plug-ins, and assistive technologies such as screen readers that read aloud web pages. 
+
+If **any** of these fail, your reader can miss the intended meaning of your content. Your reader loses and so do you because the failure prevents your ability to communicate.
+
+Let's look at user agents. While there are many types of assistive technology, we will focus on screen readers which communicate the structure and content of web pages via simulated speech or a Braille readout. Many of the best practices that will allow your content to be understood via a screen reader will also help with other assistive technologies.
 
 [Additional types of assistive technologies include](https://webaccess.berkeley.edu/resources/assistive-technology)...
 
@@ -42,6 +50,10 @@ On the other hand, what if we only make the words bold? It will stand out visual
 ```
 
 When used correctly, a content management system, such as Wordpress, can handle most of these simple coding needs. However, as we write content within them, we can still introduce many errors. These errors, in turn, can make reading the pages with a screen reader difficult at best. When we're marking up our content in HTML from scratch, than the entire process is in our control. 
+
+To get a feel how this works, here is a screen reader demonstration
+
+{% embed url="https://www.youtube.com/watch?v=dEbl5jvLKGQ" %}
 
 ## Read more...
 
