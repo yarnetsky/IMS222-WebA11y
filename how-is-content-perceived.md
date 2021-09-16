@@ -1,8 +1,8 @@
 # How is content perceived with assistive technologies?
 
-While there are [many types of assistive technology](https://webaccess.berkeley.edu/resources/assistive-technology), we will focus on screen readers which communicate the structure and content of web pages via simulated speech or a Braille readout. Many of the best practices that will allow your content to be understood via a screen reader will also help with other assistive technologies.
+While there are many types of assistive technology, we will focus on screen readers which communicate the structure and content of web pages via simulated speech or a Braille readout. Many of the best practices that will allow your content to be understood via a screen reader will also help with other assistive technologies.
 
-Additional types of assistive technologies include...
+[Additional types of assistive technologies include](https://webaccess.berkeley.edu/resources/assistive-technology)...
 
 * Screen magnifiers to enlarge the text and graphics on the screen. This would be similar in purpose to a magnifying glass for print materials.
 * Text readers have similar technologies to screen readers, but focus on reading specified chunks of text.
