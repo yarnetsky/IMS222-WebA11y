@@ -11,6 +11,8 @@ We often think of web accessibility as the special encoding required for people 
 
 In all these instances captioning walks in for the win and this is just one example of how using assistive technologies can benefit everyone. 
 
+
+
 ### **Fear not, the basics are easy**
 
 Web accessibility has a set of standards called the [Web Content Accessibility Guidelines \(WCAG 2.1\)](https://www.w3.org/TR/WCAG21/). Here there are dozens of specifications ranging from color contrast to properly encoded interface elements such as dropdown menus. While advanced web accessibility may require development experience, making our basic content accessible can be accomplished by us all.
@@ -22,6 +24,8 @@ In part one, we'll review the principles of universal access, how content is per
 Part two goes into the details of structuring your HTML so your web content is readily understood using assistive technology.
 
 Finally, our appendices include notes on making accessible documents in non-HTML formats and links for more information. 
+
+
 
 ### Footnote
 
