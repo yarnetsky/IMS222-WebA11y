@@ -41,19 +41,15 @@ Understandable technology is consistent and predictable in its design and usage 
 
 If you do the above, your content becomes more compatible with current and future tools. It ensures your markup is compatible with different browsers, assistive technologies, and other user agents. 
 
-> "Robust I.T. is standards-compliant, and designed to function on all appropriate technologies. Users should be able to choose the technology they use to interact with websites, online documents, multimedia, and other information formats."
-
-We often talk about compatibility with assistive technologies, such as screen readers, but we also need to keep our content usable for the future. For example, will your refrigerator be able to read a recipe and compare it to the contents of your refrigerator? If you recipe is marked up properly today, then it should be robust enough to succeed.
-
-Robust - Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies. This means that users must be able to access the content as technologies advance \(as technologies and user agents evolve, the content should remain accessible\)
+We often talk about compatibility with assistive technologies, such as screen readers, but we also need to keep our content usable for the future. For example, will your refrigerator be able to read a recipe and compare it to the contents of your refrigerator? If you recipe is marked up properly today, then it should be robust enough to succeed tomorrow.
 
 ## Conclusion
 
-> "POUR principles were developed to describe web accessibility, but they can be applied to almost any accessibility question. Technology providers must ensure that their users all can perceive, operate, and understand their technology, and that the technology is robust enough to work across a spectrum of technologies, including assistive technology."
+These principles were developed to describe web accessibility, but they can be applied to almost any accessibility question. Technology providers must ensure that their users can perceive, operate, and understand their technology, and that the technology is robust enough to work across a spectrum of technologies, including assistive technology.
 
-Recapping an important note... First, there are[ national standards](https://www.w3.org/TR/WCAG21/) that play a vital role in the requirements for each of these components. Secondly, while some of these requirements are easy to meet, others require technical skills or advanced knowledge of how people use the Web. In this guide, we will focus on the easier to meet requirements that you can fulfill now!
+Recapping an important note... There are[ national standards](https://www.w3.org/TR/WCAG21/) that play a vital role in the requirements for each of these components. While some of these requirements are easy to meet, others require technical skills or advanced knowledge of how people use the Web. In this guide, we are focusing on the easier to meet requirements that you can fulfill now!
 
 
 
-**Credit**: Content adapted from [Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/) by W3C Web Accessibility Initiative
+**Credit**: This content is adapted from [Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/) by W3C Web Accessibility Initiative
 
