@@ -40,6 +40,8 @@ We will review many of Tota11y's tools in the following pages as we talk about h
 
 ## Additional easy to use testing tools
 
+As you become familiar with accessibility, these additional evaluation tools will become invaluable.
+
 * **WAVE Accessibility Evaluation Tools**
   * [Website version](http://wave.webaim.org/)
   * [Chrome extension](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)

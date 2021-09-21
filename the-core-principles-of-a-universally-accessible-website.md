@@ -1,6 +1,6 @@
 # The four principles of universally accessible websites \(POUR\)
 
-To help you navigate what is required to make your work accessible, here are four overarching principles, which go by the acronym POUR: _Perceivable_, _Operable_, _Understandable_, and _Robust_. These principals each cover a lot of ground and you'll notice some overlap, but they come together to outline what's needed to make your site universally accessible. 
+So how do we make our website accessible? To help us navigate what's required, let's review four overarching principles, which go by the acronym POUR: _Perceivable_, _Operable_, _Understandable_, and _Robust_. These principals each cover a lot of ground and you'll notice some overlap, but they come together to outline what's needed to make your site universally accessible. 
 
 ## Perceivable
 
@@ -39,7 +39,7 @@ We often talk about compatibility with assistive technologies, such as screen re
 
 These principles were developed to describe web accessibility, but they can be applied to almost any accessibility question. Technology providers must ensure that their users can perceive, operate, and understand their technology, and that the technology is robust enough to work across a spectrum of technologies, including assistive technology.
 
-Recapping an important note... There are[ national standards](https://www.w3.org/TR/WCAG21/) that play a vital role in the requirements for each of these components. While some of these requirements are easy to meet, others require technical skills or advanced knowledge of how people use the Web. In this guide, we are focusing on the easier to meet requirements that you can fulfill now!
+**Recapping an important note**... There are[ national standards](https://www.w3.org/TR/WCAG21/) that play a vital role in the requirements for each of these components. While some of these requirements are easy to meet, others require technical skills or advanced knowledge of how people use the Web. In this guide, we are focusing on the easier to meet requirements that you can fulfill now!
 
 
 
